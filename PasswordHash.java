@@ -1,4 +1,4 @@
-package Test;
+package *;
 /**
  * 注册：
  * 1、根据SecureRandom.nextBytes[]生成一个salt随机值；
